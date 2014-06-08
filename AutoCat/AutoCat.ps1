@@ -15,6 +15,7 @@ function WriteHeader
     write-host "         \/                           \/     \/      "
     Write-Host ""
     write-host " AutoCat.ps1 - Recursive DLL scanning with CAT.NET"
+    write-host " Created By @two06"
     write-host " Ensure CAT.NET path is added to %PATH%!" -ForegroundColor Red
     write-host ""
 }
